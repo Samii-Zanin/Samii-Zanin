@@ -28,4 +28,5 @@ Consegui minha tão sonhada vaga de estágio na área de dados, onde estou aplic
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" style="margin-right:20px;"/> &nbsp;&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" style="margin-right:20px;" /> &nbsp;&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AirflowLogo.svg/1200px-AirflowLogo.svg.png" alt="Air Flow" width="80" style="margin-right:20px;" /> &nbsp;&nbsp
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/1200px-Microsoft_Power_Automate.svg.png" alt="Air Flow" width="40" style="margin-right:20px;" /> &nbsp;&nbsp
 <img src="https://img.icons8.com/fluent/512/microsoft-power-apps.png" alt="Power Apps" width="40 style="margin-right:20px;""/> </p>
