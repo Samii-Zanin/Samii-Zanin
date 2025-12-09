@@ -9,11 +9,12 @@ Também valorizo muito o trabalho em equipe, o aprendizado contínuo e o desenvo
 
 🎓 Formação
 
-Faculdade de Análise e Desenvolvimento de Sistemas (4º semestre – em andamento)
+Faculdade de Análise e Desenvolvimento de Sistemas (5º semestre – em andamento)
 
 🏆 Conquistas
 
-Cursando Ciência de Dados pela Udemy, ampliando meus conhecimentos em Python, Pandas, NumPy, SQL e Power BI.
+Desbravando Engenharia de Dados em uma carreira na Alura, ampliando meus conhecimentos em Python, Pandas, NumPy, SQL, Air-Flow e Databricks.
+Entusiasta em Back-End Java, cursando a formação Back-End em Java na Alura com foco em SpringBoot, e Java MicroServices.
 
 Tenho experiência prática no desenvolvimento de sistemas com Python, MySQL e Java, além de projetos acadêmicos que simulam aplicações reais (como sistemas de cadastro, PDV e gerenciamento de contatos).
 
